@@ -1,0 +1,21 @@
+{
+  "name": "garage_mate_express",
+  "version": "1.0.0",
+  "description": "Technion project, faculty of software engineering.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoyupdev/Technion-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/yoyupdev/Technion-Project/issues"
+  },
+  "homepage": "https://github.com/yoyupdev/Technion-Project#readme"
+}
